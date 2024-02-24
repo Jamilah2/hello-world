@@ -1,3 +1,3 @@
 # hello-world
 practicing github
-Hi, my name is Khadija Siddiqui. Im using GithUb for the firt time.
+Hi, my name is Khadija Siddiqui. Im using Github for the firt time.
